@@ -1,0 +1,16 @@
+ Volume in drive D is ÐÂ¼Ó¾í
+ Volume Serial Number is CAB6-B977
+
+ Directory of D:\test\demo
+
+12/14/2019  03:49 AM    <DIR>          .
+12/14/2019  03:49 AM    <DIR>          ..
+12/14/2019  03:45 AM               333 .gitignore
+12/14/2019  03:45 AM    <DIR>          .mvn
+12/14/2019  03:49 AM                 0 dir.txt
+12/14/2019  03:45 AM             9,114 mvnw
+12/14/2019  03:45 AM             5,811 mvnw.cmd
+12/14/2019  03:45 AM             2,084 pom.xml
+12/14/2019  03:45 AM    <DIR>          src
+               5 File(s)         17,342 bytes
+               4 Dir(s)  95,257,948,160 bytes free
